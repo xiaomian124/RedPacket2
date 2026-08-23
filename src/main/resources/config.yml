@@ -1,0 +1,42 @@
+Version: 1
+
+#红包数据库设置
+Database:
+  #数据库类型，目前支持MySQL和Sqlite
+  Type: sqlite
+  #Sqlite的数据库文件名
+  FileName: database.db
+  #使用MySQL时可用
+  #Mysql数据库IP
+  IP:
+  #Mysql数据库端口
+  Port:
+  #Mysql数据库用户名
+  UserName:
+  #Mysql数据库密码
+  Password:
+  #Mysql数据库名称
+  DatabaseName:
+  #Mysql链接参数，多个参数请以&连接
+  #开头为?
+  #比如?useUnicode=true&characterEncoding=gbk
+  MySQLArgument:
+  #Sqlite/Mysql表名称
+  TableName: redpacket
+
+#红包设置
+RedPacket:
+  #最大数量
+  MaxAmount: 10000
+  #最大总额
+  MaxMoney: 100000
+  #最小总额
+  MinMoney: 0.1
+  #是否会自动过期
+  Expired: false
+  #过期时间（单位为ms）
+  ExpiredTime: 4800000
+
+
+
+
