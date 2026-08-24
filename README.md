@@ -63,7 +63,7 @@
 原作者的Github：[sandtechnology](https://github.com/sandtechnology/RedPacket)   
 注意：原作者已停止更新此插件！   
 - 下载RedPacket插件的**1.8-1.19.3**版本，请点击链接 [Minebbs - RedPacket](https://www.minebbs.com/resources/redpacket-x-x.9017/)  
-- 下载RedPacket2插件的**1.21-26.2**版本，就是你在看的这个资源！
+- 下载RedPacket2插件的**1.21-26.2**版本，就是你在看的这个仓库，前往 [Releases](https://github.com/xiaomian124/RedPacket2/releases)下载
  
 # 报告问题  
 因为我是Java的初学者，插件部分代码制作依赖于AI，请理解！   
