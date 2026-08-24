@@ -59,7 +59,7 @@
 - `RedPacket-Expired` 红包是否自动过期  
 
 # 关于RedPacket插件
-我并不是这个插件的原作者，我主要是把这个插件支持到了1.21-1.21.4版本   
+我并不是这个插件的原作者，我主要是把这个插件支持到了1.21-26.2版本   
 原作者的Github：[sandtechnology](https://github.com/sandtechnology/RedPacket)   
 注意：原作者已停止更新此插件！   
 - 下载RedPacket插件的**1.8-1.19.3**版本，请点击链接 [Minebbs - RedPacket](https://www.minebbs.com/resources/redpacket-x-x.9017/)  
